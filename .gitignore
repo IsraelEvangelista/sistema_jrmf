@@ -1,0 +1,11 @@
+# Ignore configs e segredos
+.vercel/
+.env
+.env.*
+.supabase
+supabase/.env
+supabase/.env.*
+
+# Build e dependências
+node_modules/
+dist/
